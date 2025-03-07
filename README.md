@@ -1,11 +1,11 @@
-# Futuro das IA Generativas
+# Futuro das IA Generativas - Ebook
 
 ![Captura de tela_7-3-2025_191324_](https://github.com/user-attachments/assets/1d600676-83c2-4b8c-bcde-88b5a125e42f)
 
 
 ##📒 Descrição
-Este projeto explora o potencial futuro das Inteligências Artificiais (IA) Generativas, destacando suas capacidades, aplicações e o impacto que podem ter em diversas áreas. O objetivo é fornecer uma visão abrangente sobre como essas tecnologias estão evoluindo e como podem ser utilizadas de forma inovadora.
-Os textos podem ser organizados de diversas maneiras, dependendo do contexto e do objetivo do autor. Uma forma comum de organização é a estruturação em parágrafos, com cada parágrafo tratando de um tema específico e apresentando uma ideia ou argumento central.
+
+Este projeto consiste na criação de um ebook intitulado "Futuro das IA Generativas". O objetivo do ebook é explorar o potencial futuro das Inteligências Artificiais (IA) Generativas, destacando suas capacidades, aplicações e impacto em diversas áreas. Através de uma visão abrangente e detalhada, o ebook busca fornecer insights sobre como essas tecnologias estão evoluindo e como podem ser utilizadas de forma inovadora.
 
 Além disso, os textos podem ser organizados de acordo com a estrutura de um texto narrativo - introdução, desenvolvimento e conclusão - ou seguindo a ordem cronológica dos eventos descritos.
 
@@ -14,11 +14,14 @@ Outra forma de organizar textos é por meio de tópicos ou subtítulos, que ajud
 Independentemente da forma de organização escolhida, é importante que o texto seja coerente e coeso, ou seja, que haja uma sequência lógica e uma conexão clara entre as ideias apresentadas.
 
 ##🤖 Tecnologias Utilizadas
+
 Copilot: para geração de textos
 
 Compose Ai: para organização do texto
 
 Dall-E: Para geração de imagens
+
+Chat-GPT4: para geração e organização do texto do ebook
 
 ##🧐 Processo de Criação
 Pesquisa Inicial: Coletamos informações e tendências atuais sobre IA generativa.
@@ -40,5 +43,7 @@ Conteúdos Gerados: Produzimos uma variedade de conteúdos textuais com Copilot 
 
 ##💭 Reflexão
 A criação de conteúdos inovadores com IA generativa apresenta desafios únicos, como garantir a originalidade e a relevância das gerações, bem como lidar com questões éticas e de viés. No entanto, a jornada revela um imenso potencial para transformar diversas indústrias e trazer avanços significativos em criatividade e eficiência.
+
+link para ebook: [Futuro Das IAs Generativas.pdf](https://github.com/user-attachments/files/19134468/Futuro.Das.IAs.Generativas.pdf)
 
 
